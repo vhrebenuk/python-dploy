@@ -28,7 +28,8 @@ setup(
         'PyYAML>=3.12',
         'Jinja2>=2.9.5',
         'docopt>=0.6.2',
-        'Fabric3==1.14.post1',
+        #'Fabric3==1.14.post1',
+        'fabric==1.14',
         'fabtools>=0.20.0',
     ],
     classifiers=[
